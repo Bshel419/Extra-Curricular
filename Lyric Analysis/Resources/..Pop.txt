@@ -1,0 +1,46 @@
+Pop
+---------------------------------------------------------------------------------------------------------------------------
+Attention by Charlie Puth
+[('You', 57), ('What', 24), ('Are', 20), ('Doin', 20), ('That', 18), ('Me', 18), ('Just', 14), ('Knew', 13), ('I', 13), ('Oh', 11), ('Want', 10), ('Round', 9), ('To', 9), ('The', 8), ('Huh', 8), ('Were', 7), ('Im', 7), ('Youre', 7), ('Attention', 7), ('Runnin', 6), ('All', 6), ('On', 6), ('Up', 6), ('Know', 6), ('Now', 6), ('With', 6), ('Over', 6)]
+
+Believer by Imagine Dragons
+[('The', 29), ('Me', 23), ('You', 22), ('My', 20), ('Believer', 18), ('A', 15), ('Oh', 14), ('Pain', 13), ('Made', 12), ('Ooh', 8), ('From', 8), ('Up', 7), ('Down', 7), ('Things', 6), ('And', 6), ('To', 6), ('Let', 6)]
+
+Fetish by Selena Gomez
+[('You', 46), ('I', 23), ('A', 16), ('It', 11), ('My', 11), ('In', 10), ('Got', 10), ('Fetish', 10), ('And', 10), ('For', 9), ('Love', 9), ('Ah', 8), ('Me', 8), ('See', 7), ('Dont', 7), ('If', 7), ('Your', 6), ('Push', 6), ('Out', 6), ('Come', 6), ('Right', 6), ('Back', 6), ('Point', 6), ('Blaming', 6), ('Were', 6), ('Id', 6), ('Do', 6), ('Too', 6)]
+
+Something Just Like This by The Chainsmokers
+[('Doodoodoo', 20), ('I', 19), ('Just', 15), ('Something', 15), ('Want', 12), ('Like', 12), ('This', 12), ('Some', 9), ('And', 8), ('The', 7), ('Oh', 7), ('Wanna', 6), ('Somebody', 6), ('Can', 6)]
+
+Sorry Not Sorry by Demi Lovato
+[('Im', 34), ('Baby', 25), ('Sorry', 24), ('I', 15), ('That', 15), ('And', 13), ('A', 12), ('The', 12), ('It', 12), ('You', 12), ('Not', 12), ('Walk', 12), ('Bad', 10), ('Me', 10), ('Talk', 10), ('Like', 9), ('Better', 9), ('Yeah', 8), ('This', 8), ('Know', 7), ('To', 7), ('Have', 7), ('Is', 6), ('Baddest', 6), ('So', 6)]
+
+Rap
+---------------------------------------------------------------------------------------------------------------------------
+9 by Drake
+[('I', 22), ('It', 20), ('Nine', 18), ('For', 13), ('A', 11), ('Six', 10), ('Yeah', 9), ('Not', 8), ('The', 7), ('Now', 6), ('To', 6)]
+
+Fack by Eminem
+[('Oh', 28), ('Fack', 25), ('Im', 23), ('I', 23), ('A', 16), ('Cum', 12), ('Gonna', 10), ('In', 10), ('Am', 9), ('Ow', 8), ('Yeah', 8), ('Dont', 8), ('God', 7), ('So', 7), ('Damn', 6), ('Like', 6), ('My', 6), ('It', 6), ('Your', 6)]
+
+Feel No Ways by Drake
+[('Way', 19), ('You', 19), ('Feel', 16), ('To', 15), ('A', 14), ('On', 11), ('I', 10), ('And', 8), ('It', 7), ('Yeah', 7), ('Me', 6), ('With', 6), ('Now', 6), ('Youre', 6), ('Purpose', 6)]
+
+HUMBLE by Kendrick Lamar
+[('Up', 66), ('Hol', 64), ('Bitch', 40), ('Down', 25), ('Sit', 23), ('Lil', 23), ('Be', 19), ('Humble', 16), ('Aye', 13), ('I', 13), ('The', 13), ('My', 8), ('It', 8), ('You', 7), ('Your', 6), ('That', 6), ('On', 6)]
+
+Hype by Drake
+[('I', 22), ('To', 21), ('Me', 20), ('The', 19), ('Done', 19), ('They', 18), ('It', 17), ('Im', 12), ('Dont', 10), ('In', 10), ('My', 10), ('Just', 9), ('A', 9), ('You', 9), ('Out', 6)]
+
+Keep The Family Close by Drake
+[('You', 33), ('I', 19), ('And', 14), ('Me', 10), ('To', 10), ('For', 10), ('Of', 9), ('My', 9), ('On', 9), ('Im', 9), ('All', 8), ('Friends', 8), ('A', 7), ('That', 7), ('The', 7), ('Its', 6), ('Just', 6), ('Are', 6), ('Dont', 6), ('Anymore', 6), ('Not', 6), ('Guess', 6), ('Like', 6)]
+
+U With Me by Drake
+[('You', 25), ('I', 18), ('A', 17), ('We', 14), ('To', 13), ('Of', 13), ('On', 12), ('Me', 12), ('The', 12), ('That', 11), ('My', 8), ('Know', 8), ('Like', 8), ('What', 7), ('And', 7), ('Is', 7), ('Its', 7), ('It', 7), ('Lot', 6), ('Thats', 6), ('Games', 6), ('Yeah', 6)]
+
+Weston Road Flows by Drake
+[('To', 29), ('The', 29), ('I', 26), ('You', 20), ('It', 18), ('Like', 16), ('A', 15), ('And', 14), ('We', 12), ('In', 10), ('My', 9), ('When', 8), ('That', 8), ('Get', 8), ('Was', 7), ('But', 7), ('Im', 7), ('Me', 7), ('Of', 6), ('For', 6), ('Your', 6), ('On', 6), ('With', 6), ('They', 6), ('Be', 6)]
+
+WhiteIverson by Post Malone
+[('Im', 33), ('I', 28), ('My', 20), ('You', 12), ('Saucin', 10), ('Out', 10), ('Swaggin', 9), ('Ballin', 9), ('Watch', 9), ('Thats', 9), ('Shot', 9), ('On', 8), ('And', 8), ('The', 8), ('It', 8), ('Me', 7), ('Like', 7), ('Yeah', 6), ('Spendin', 6)]
+
