@@ -1,0 +1,32 @@
+Justin
+---------------------------------------------------------------------------------------------------------------------------
+6 PM In New York by Drake
+[('I', 32), ('The', 32), ('To', 27), ('It', 25), ('You', 24), ('And', 22), ('My', 19), ('A', 16), ('On', 12), ('Me', 11), ('In', 11), ('Like', 11), ('Gotta', 10), ('Im', 10), ('That', 10), ('Oh', 9), ('Love', 9), ('Of', 8), ('All', 8), ('They', 8), ('So', 8), ('Got', 6), ('Just', 6), ('For', 6), ('But', 6), ('Its', 6), ('Your', 6), ('We', 6), ('With', 6)]
+
+All Me by Drake
+[('I', 48), ('A', 27), ('The', 27), ('That', 21), ('Me', 16), ('Im', 15), ('You', 14), ('And', 14), ('Like', 14), ('My', 13), ('All', 13), ('Got', 12), ('Shit', 12), ('To', 12), ('On', 11), ('Dont', 10), ('Thats', 9), ('But', 9), ('It', 9), ('This', 8), ('No', 8), ('In', 8), ('Just', 8), ('Was', 8), ('Aint', 8), ('Up', 7), ('For', 7), ('Need', 7), ('Its', 6), ('Nigga', 6), ('Do', 6)]
+
+Believe Me by Lil Wayne
+[('The', 37), ('Me', 24), ('Nigga', 23), ('I', 20), ('A', 18), ('And', 14), ('You', 13), ('Like', 12), ('To', 12), ('One', 11), ('That', 11), ('For', 11), ('Im', 10), ('My', 9), ('She', 8), ('They', 8), ('In', 8), ('Rip', 8), ('Get', 7), ('Know', 7), ('Believe', 7), ('Off', 7), ('On', 7), ('Dont', 6)]
+
+Child's Play by Drake
+[('You', 34), ('Like', 28), ('A', 23), ('I', 22), ('That', 18), ('Whoa', 18), ('The', 15), ('It', 14), ('To', 12), ('Shit', 11), ('And', 11), ('Bounce', 10), ('Know', 10), ('Rode', 9), ('Yeah', 8), ('She', 8), ('Soldier', 8), ('Just', 6), ('Im', 6), ('In', 6)]
+
+Do not Disturb by Drake
+[('I', 29), ('To', 26), ('Me', 18), ('The', 17), ('In', 11), ('A', 11), ('You', 10), ('It', 10), ('My', 10), ('That', 9), ('Of', 8), ('Like', 8), ('All', 7), ('For', 7), ('They', 7), ('Want', 6), ('Is', 6), ('Up', 6), ('Shit', 6), ('Never', 6), ('And', 6)]
+
+For Free by DJ Khalid
+[('You', 22), ('I', 22), ('It', 18), ('Me', 13), ('Is', 12), ('For', 11), ('The', 11), ('On', 9), ('One', 8), ('And', 8), ('Just', 8), ('To', 8), ('Know', 7), ('Free', 6), ('Another', 6), ('So', 6), ('Have', 6), ('Your', 6), ('This', 6), ('That', 6), ('Up', 6)]
+
+HYFR by Drake
+[('I', 28), ('And', 23), ('Right', 21), ('Yeah', 20), ('You', 20), ('Hell', 19), ('She', 17), ('We', 12), ('To', 10), ('It', 10), ('Me', 10), ('The', 9), ('Her', 9), ('Say', 9), ('Fuckin’', 9), ('All', 8), ('My', 8), ('Is', 8), ('Do', 6), ('Are', 6)]
+
+Right Above It By Lil Wayne
+[('I', 22), ('The', 20), ('And', 19), ('You', 16), ('On', 14), ('My', 14), ('Me', 12), ('A', 11), ('In', 11), ('It', 10), ('Got', 8), ('We', 7), ('To', 7), ('That', 7), ('Im', 6)]
+
+Stay Schemin by Rick Ross
+[('Niggas', 41), ('My', 36), ('I', 33), ('For', 28), ('Ride', 20), ('Dawg', 20), ('The', 19), ('Me', 18), ('It', 12), ('You', 12), ('To', 11), ('Get', 10), ('In', 10), ('Like', 10), ('Tryna', 9), ('Stay', 8), ('Schemin', 8), ('At', 8), ('Nigga', 7), ('A', 6), ('Im', 6), ('And', 6)]
+
+Who Do You Love by YG
+[('The', 34), ('Nigga', 21), ('Im', 19), ('That', 18), ('You', 14), ('Got', 9), ('On', 9), ('My', 9), ('We', 9), ('Who', 7), ('Do', 7), ('Bitch', 7), ('A', 7), ('And', 7), ('Big', 7), ('To', 6), ('Love', 6)]
+

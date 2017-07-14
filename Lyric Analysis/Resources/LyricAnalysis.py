@@ -2,8 +2,8 @@
 #Extra-Curricular Program 1: Lyric Analysis
 #This Program (So far) reads in lyrics of songs from text files
 #and counts the total number of times each word in the song is used.
-#
-
+#It also takes that data and creates an excel workbook that has a worksheet
+#for every song and the associated word count with it
 import sys,os
 import collections
 import string
@@ -16,8 +16,6 @@ def getFolderList(DIRPATH):
 
     folderList = os.listdir(DIRPATH)
     folderList.remove('Resources')
-    folderList.remove('Excel Files')
-    folderList.remove('Outfiles')
     return folderList
 
 #gets the number of times each word is said and then cuts off
@@ -66,7 +64,7 @@ def getPercentageList(lyricList):
 
 def makeExcelSheet(folder, DIRPATH):
 
-    workbook = xlsxwriter.Workbook(DIRPATH + '\\Excel Files\\' + folder + '.xlsx')
+    workbook = xlsxwriter.Workbook(DIRPATH + '\\Resources\\Excel Files\\' + folder + '.xlsx')
     pieChart = workbook.add_chart({'type': 'pie'})
 
     for filename in glob.glob(os.path.join(DIRPATH + '\\' + folder, '*.txt')):
@@ -95,6 +93,9 @@ def makeExcelSheet(folder, DIRPATH):
 
         percList = getPercentageList(lyrics)
         
+        # for k in percList:
+
+        
 
 
 #prints the words to the console
@@ -117,7 +118,7 @@ def printWordReport(folder, DIRPATH):
 #Do not call this function if you are calling printWordReport
 def outfileWordReport(folder, DIRPATH):
 
-    sys.stdout = open(DIRPATH + '\\' + 'Outfiles\\' + folder + '.txt', "w")
+    sys.stdout = open(DIRPATH + '\\Resources\\Outfiles\\' + folder + '.txt', "w")
 
     printList = []
 
@@ -144,6 +145,6 @@ if __name__ == '__main__':
 
     for folder in folderList:
         #printWordReport(folder, DIRPATH)
-        #outfileWordReport(folder, DIRPATH)
+        outfileWordReport(folder, DIRPATH)
         makeExcelSheet(folder, DIRPATH)
             

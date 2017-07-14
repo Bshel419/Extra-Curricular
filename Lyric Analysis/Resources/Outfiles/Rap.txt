@@ -1,0 +1,20 @@
+Rap
+---------------------------------------------------------------------------------------------------------------------------
+Fack by Eminem
+[('Oh', 28), ('Fack', 25), ('Im', 23), ('I', 23), ('A', 16), ('Cum', 12), ('Gonna', 10), ('In', 10), ('Am', 9), ('Ow', 8), ('Yeah', 8), ('Dont', 8), ('God', 7), ('So', 7), ('Damn', 6), ('Like', 6), ('My', 6), ('It', 6), ('Your', 6)]
+
+Gunwalk by Lil Wayne
+[('Gun', 42), ('Nigga', 33), ('My', 30), ('Walk', 27), ('I', 27), ('Thats', 26), ('A', 25), ('The', 20), ('With', 19), ('Me', 17), ('See', 14), ('Dont', 14), ('That', 14), ('Walking', 12), ('Limp', 12), ('Talk', 12), ('You', 11), ('Yeah', 10), ('Im', 10), ('Up', 10), ('Fuck', 10), ('Ho', 9), ('No', 9), ('Back', 9), ('And', 8), ('Do', 7), ('Let', 7), ('Strapped', 6), ('Law', 6), ('Arguin', 6)]
+
+HUMBLE by Kendrick Lamar
+[('Up', 66), ('Hol', 64), ('Bitch', 40), ('Down', 25), ('Sit', 23), ('Lil', 23), ('Be', 19), ('Humble', 16), ('Aye', 13), ('I', 13), ('The', 13), ('My', 8), ('It', 8), ('You', 7), ('Your', 6), ('That', 6), ('On', 6)]
+
+U With Me by Drake
+[('You', 25), ('I', 18), ('A', 17), ('We', 14), ('To', 13), ('Of', 13), ('On', 12), ('Me', 12), ('The', 12), ('That', 11), ('My', 8), ('Know', 8), ('Like', 8), ('What', 7), ('And', 7), ('Is', 7), ('Its', 7), ('It', 7), ('Lot', 6), ('Thats', 6), ('Games', 6), ('Yeah', 6)]
+
+Watch My Shoes by Lil Wayne
+[('I', 34), ('The', 32), ('A', 23), ('And', 22), ('Like', 20), ('My', 18), ('You', 17), ('Im', 16), ('In', 11), ('Me', 11), ('Your', 10), ('On', 10), ('No', 9), ('To', 9), ('This', 9), ('Around', 9), ('Bitch', 8), ('So', 8), ('Get', 8), ('Be', 8), ('At', 8), ('Shit', 7), ('That', 7), ('Dont', 6), ('Got', 6), ('Hoe', 6), ('Bitches', 6)]
+
+WhiteIverson by Post Malone
+[('Im', 33), ('I', 28), ('My', 20), ('You', 12), ('Saucin', 10), ('Out', 10), ('Swaggin', 9), ('Ballin', 9), ('Watch', 9), ('Thats', 9), ('Shot', 9), ('On', 8), ('And', 8), ('The', 8), ('It', 8), ('Me', 7), ('Like', 7), ('Yeah', 6), ('Spendin', 6)]
+
