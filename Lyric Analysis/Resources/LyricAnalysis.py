@@ -23,6 +23,7 @@ def getFolderList(DIRPATH):
 def getFrequentWords(lyrics, frequency):
 
     punct = ['!', '#', '"', '%', '$', '&', ')', '(', '+', '*', '-', "'", ',', '.', '?']
+    articles =['A', 'An', 'And', 'The']
 
     songWords = {}
     printList = []
@@ -30,12 +31,19 @@ def getFrequentWords(lyrics, frequency):
     for word in lyrics.split():
         for char in punct:
             word = word.replace(char, '')
+
         word = word.lower()
         word = word.title()
-        if not word in songWords:
-            songWords[word] = 1
-        else:
-            songWords[word] += 1
+
+        for article in articles:
+            if word == article:
+                word = ''
+        
+        if word != '':
+            if not word in songWords:
+                songWords[word] = 1
+            else:
+                songWords[word] += 1
 
     songWords = sorted(songWords.items(), key=lambda kv: kv[1], reverse=True)
 
@@ -70,6 +78,7 @@ def makeExcelSheet(folder, DIRPATH):
     for filename in glob.glob(os.path.join(DIRPATH + '\\' + folder, '*.txt')):
         f = open(filename, 'r')
         lyrics = f.read()
+        proxyLyrics = lyrics
         lyrics = getFrequentWords(lyrics, 0)
 
         excelName = filename.replace(DIRPATH + '\\' + folder + '\\', '')
@@ -92,8 +101,38 @@ def makeExcelSheet(folder, DIRPATH):
         worksheet.write_column('B1', numOfOccurences)
 
         percList = getPercentageList(lyrics)
+
+        proxyLyrics = getFrequentWords(proxyLyrics, 5)
+        strippedList = []
+
+        percTotal = 0
+        percDeficit = 100
+
+        for x in range(len(proxyLyrics)):
+            stripped = percList[x][1].replace('%', '')
+            stripped = float(stripped)
+            strippedList.append(stripped)
+
+            wordList = percList[x][0]
+            percTotal += stripped
         
-        # for k in percList:
+        percDeficit = percDeficit - percTotal
+        strippedList.append(percDeficit)
+
+        data = [
+            [wordList],
+            [strippedList]
+        ]
+
+        pieChart.add_series({
+            'categories': data[0],
+            'values': data[1]
+        })
+
+        worksheet.insert_chart('C1', pieChart)
+    workbook.close()
+        
+            
 
         
 
@@ -145,6 +184,6 @@ if __name__ == '__main__':
 
     for folder in folderList:
         #printWordReport(folder, DIRPATH)
-        outfileWordReport(folder, DIRPATH)
+        #outfileWordReport(folder, DIRPATH)
         makeExcelSheet(folder, DIRPATH)
             
