@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="disclaimer">DISCLAIMER:
+    The BAC calculator is meant for educational purposes only.
+    The BAC calculator and information generated from it is not intended to replace the medical advice of your doctor or health care provider and should not be relied upon; nor do the BAC calculator or information generated from it constitute legal advice.
+    Please consult your healthcare provider for advice about a specific medical condition and legal counsel for any legal questions.
+    There is no blood alcohol calculator that is 100% accurate because of the numerous factors and complexities relating to alcohol consumption by of different individuals.
+    In addition to the gender, body weight and amount of alcohol consumed in a time period, blood alcohol content of any individual person is influenced by that person’s metabolism, health issues, medications taken, history of alcohol consumption and the amount of food and non-alcoholic beverages eaten before or during alcohol consumption, among other factors.
+    The best that can be done is a rough estimation of the BAC level based on known inputs.</string>
+</resources>

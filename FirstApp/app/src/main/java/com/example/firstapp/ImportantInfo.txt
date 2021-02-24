@@ -1,0 +1,14 @@
+% BAC = ((oz * 5.14) / (weight(lbs) * gender(.73 M, .66 F))) - .015 * hours elapsed since drinking began
+
+lbs to kilos: .0453592 kilograms
+
+oz = oz in beverage * % of alcohol
+Food Consumed?
+
+Oz converter
+Just display how many normal drinks they consumed
+
+Mixing drinks? (ABV mainly)
+
+
+
