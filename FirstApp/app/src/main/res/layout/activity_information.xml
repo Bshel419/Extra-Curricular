@@ -28,26 +28,28 @@
             android:id="@+id/male"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Male" />
+            android:text="Male"
+            />
 
         <RadioButton
             android:id="@+id/female"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Female" />
+            android:text="Female"
+            />
     </RadioGroup>
 
     <TextView
         android:id="@+id/weightText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Weight"
+        android:text="Weight(lbs)"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumberSigned"
+        android:id="@+id/weightVar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"

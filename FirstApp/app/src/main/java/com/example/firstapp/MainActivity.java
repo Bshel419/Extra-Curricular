@@ -7,6 +7,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity
 {
@@ -18,12 +19,24 @@ public class MainActivity extends AppCompatActivity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //TextView for debugging purposes
+        TextView debugView = (TextView) findViewById(R.id.debug);
 
+        //buttons to go to activities
         day = (Button) findViewById(R.id.day);
         month = (Button) findViewById(R.id.month);
         info = (Button) findViewById(R.id.info);
         options = (Button) findViewById(R.id.options);
         disclaimer = (Button) findViewById(R.id.disclaimer);
+
+        //get information from info activity
+        Intent getInfo = getIntent();
+
+        //get gender and weight
+        String gender = getInfo.getStringExtra(Information.GENDER);
+        int weight = getInfo.getIntExtra(Information.WEIGHT, 0);
+
+
 
         day.setOnClickListener(new View.OnClickListener()
         {
